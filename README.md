@@ -30,3 +30,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
+
+---
+
+[CenterPoint](https://github.com/tianweiy/CenterPoint)
+
+[BEVFusion](https://github.com/mit-han-lab/bevfusion)
+
+[DeepStream](https://github.com/nvidia/deepstream)
+
+[DS3D](https://docs.nvidia.com/metropolis/deepstream/9.1/text/DS_3D_Custom_Manual.html)
