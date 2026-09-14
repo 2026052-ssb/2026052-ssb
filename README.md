@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 [CenterPoint](https://github.com/tianweiy/CenterPoint)
 
+[MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
+
 [BEVFusion](https://github.com/mit-han-lab/bevfusion)
 
 [DeepStream](https://github.com/nvidia/deepstream)
