@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://www.jetbrains.com/clion/">
     <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
 
-  <a href="https://www.atlassian.com/software/confluence">
+  <a href="https://hc-support.atlassian.net/wiki/spaces/advancedre/overview">
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
