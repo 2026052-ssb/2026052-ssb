@@ -37,7 +37,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
-  
+
+* [OpenPCDet](https://github.com/open-mmlab/openPCDet)
 * [CenterPoint](https://github.com/tianweiy/CenterPoint)
 * [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
 * [BEVFusion](https://github.com/mit-han-lab/bevfusion)
