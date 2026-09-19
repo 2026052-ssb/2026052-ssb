@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 * [CenterPoint](https://github.com/tianweiy/CenterPoint)
 * [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
 * [BEVFusion](https://github.com/mit-han-lab/bevfusion)
-* [DeepStream](https://github.com/NVIDIA-AI-IOT/deepstream)
+* [DeepStream](https://github.com/NVIDIA/deepstream)
 * [DS3D](https://docs.nvidia.com/metropolis/deepstream/9.1/text/DS_3D_Custom_Manual.html)
